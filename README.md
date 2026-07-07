@@ -79,25 +79,25 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 - **Problem:** Manual identification of crop diseases is slow and error-prone, leading to potential yield loss.
 - **Solution:** Designed and deployed a CNN with the Efficient DET algorithm achieving 96.71% accuracy for early disease detection in coffee plants. 
 - **Technologies:** Python, TensorFlow, Keras, CNN, Efficient DET, OpenCV, NumPy.
-- [🔗 View Repository](https://github.com/someshtarra)
+- [🔗 View Repository](https://github.com/someshtarra/Disease-Pest-Detection-in-Coffee-Leaves-using-Efficient-DET-Algorithm-CNN)
 
 ### 2. National GDP Prediction using Time Series, Deep Learning & Hybrid Models
 - **Problem:** Economic forecasting requires modeling complex, non-linear dependencies.
 - **Solution:** Engineered a hybrid ARIMA-GRU model to forecast national GDP with a 37% reduction in forecast error (RMSE 122, R² 0.9998). Applied wavelet transforms and outlier smoothing.
 - **Technologies:** Python, TensorFlow, Keras, ARIMA, GRU, Time Series, Pandas, statsmodels.
-- [🔗 View Repository](https://github.com/someshtarra/gdp-prediction)
+- [🔗 View Repository](https://github.com/someshtarra/NATIONAL-GDP-PREDICTION-USING-TIME-SERIES-ANALYSIS-AND-DEEP-LEARNING-MODELS)
 
 ### 3. Cryptocurrency Price Prediction using Time Series Analysis
 - **Problem:** Cryptocurrencies exhibit extreme volatility, making accurate price forecasting challenging.
 - **Solution:** Built and compared ARIMA and LSTM forecasting models to predict volatile cryptocurrency price trends. Enhanced model reliability by 18%.
 - **Technologies:** Python, Pandas, ARIMA, LSTM, Scikit-learn, Matplotlib.
-- [🔗 View Repository](https://github.com/someshtarra/cryptocurrency-prediction)
+- [🔗 View Repository](https://github.com/someshtarra/CRYPTOCURRENCY_PRICE-PREDICTION-USING-TIME-SERIES-ANALYSIS)
 
 ### 4. AWS Three-Tier Web Architecture
 - **Problem:** Designing an infrastructure that remains reliable and scales seamlessly under varying workloads while ensuring high security.
 - **Solution:** Designed a highly available, secure AWS three-tier architecture with VPC, EC2 instances across public and private subnets, Application Load Balancer, Auto Scaling Groups, and NAT Gateway routing.
 - **Technologies:** AWS, VPC, EC2, Application Load Balancer, Auto Scaling, NAT Gateway, Security Groups.
-- [🔗 View Repository](https://github.com/someshtarra/aws-three-tier)
+- [🔗 View Repository](https://github.com/someshtarra/Highly-Available-Secure-and-Auto--Scaling-Web-Application-Architecture-on-AWS)
 
 ### 5. AWS VPC with Servers in Private Subnets & NAT Gateway
 - **Problem:** Secure network infrastructure requires strict access control and network isolation for application servers.
