@@ -97,13 +97,13 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 - **Problem:** Designing an infrastructure that remains reliable and scales seamlessly under varying workloads while ensuring high security.
 - **Solution:** Designed a highly available, secure AWS three-tier architecture with VPC, EC2 instances across public and private subnets, Application Load Balancer, Auto Scaling Groups, and NAT Gateway routing.
 - **Technologies:** AWS, VPC, EC2, Application Load Balancer, Auto Scaling, NAT Gateway, Security Groups.
-- [🔗 View Repository](https://github.com/someshtarra/Highly-Available-Secure-and-Auto--Scaling-Web-Application-Architecture-on-AWS)
+- 🚧 **Work in Progress (Repository coming soon)**
 
 ### 5. AWS VPC with Servers in Private Subnets & NAT Gateway
 - **Problem:** Secure network infrastructure requires strict access control and network isolation for application servers.
 - **Solution:** Designed and implemented a secure AWS network infrastructure featuring a custom VPC, public and private subnets, NAT Gateways for outbound internet connectivity, and isolated application servers.
 - **Technologies:** AWS, VPC, NAT Gateway, Subnets, Route Tables, EC2, Security Groups.
-- [🔗 View Repository](https://github.com/someshtarra/aws-vpc-private-subnets-nat)
+- [🔗 View Repository](https://github.com/someshtarra/Highly-Available-Secure-and-Auto--Scaling-Web-Application-Architecture-on-AWS)
 
 ---
 
