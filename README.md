@@ -128,12 +128,12 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=someshtarra&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshtarra&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=someshtarra&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=someshtarra&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=someshtarra&theme=transparent&hide_border=true&title_color=2563EB&text_color=c9d1d9&icon_color=2563EB&ring=2563EB" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=someshtarra&theme=transparent&hide_border=true&title_color=2563EB&text_color=c9d1d9&icon_color=2563EB&ring=2563EB" alt="GitHub Streak" />
 </div>
 
 ---
