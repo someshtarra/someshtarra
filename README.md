@@ -10,10 +10,10 @@
     <a href="https://linkedin.com/in/someshtarra">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:someswararaotarra@gmail.com">
+    <a href="mailto:someshtarra@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://someshtarra.github.io/portfolio">
+    <a href="https://somesh-portfolio-jet.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -96,20 +96,6 @@ Currently, I am strengthening my expertise in cloud engineering, DevOps automati
 - **Technologies:** Python, Pandas, Scikit-learn, Time Series Analysis.
 - **Outcome:** Developed a predictive model that successfully captures market trends and volatility patterns.
 - [🔗 View Repository](https://github.com/someshtarra/cryptocurrency)
-
-### 5. Customer Churn Prediction
-- **Problem:** High customer attrition directly impacts business revenue; identifying at-risk customers early is critical.
-- **Solution & Architecture:** Processed customer behavioral data and trained classification models to predict the likelihood of churn, enabling proactive retention strategies.
-- **Technologies:** Python, Pandas, Scikit-learn, Data Visualization.
-- **Outcome:** Delivered a model with high recall, allowing targeted interventions that reduce churn rates.
-- [🔗 View Repository](https://github.com/someshtarra/customer_churn_prediction)
-
-### 6. Retail Analytics / Quantium Analytics Project
-- **Problem:** Retailers need to understand customer purchasing behavior to optimize inventory and marketing strategies.
-- **Solution & Architecture:** Conducted comprehensive exploratory data analysis (EDA) and statistical testing on transaction datasets to extract actionable business insights.
-- **Technologies:** Python, Pandas, Data Visualization, Statistical Analysis, Excel.
-- **Outcome:** Identified key customer segments and purchasing trends that directly inform data-driven retail strategies.
-- [🔗 View Repository](https://github.com/someshtarra/Quantium)
 
 ---
 
