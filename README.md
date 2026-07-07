@@ -1,7 +1,12 @@
 <div align="center">
   <h1>Someswararao Tarra</h1>
   <h3>Cloud Infrastructure | DevOps | Data Science | Machine Learning</h3>
-  <p>Aspiring IT Professional bridging Cloud Infrastructure, Automation, and Data-Driven Decision Making.</p>
+  
+  <p>
+    <marquee width="80%" direction="left" scrollamount="6">
+      🚀 Actively seeking entry-level opportunities in Cloud Infrastructure, DevOps, and Data Science! | 💡 Passionate about automation and data-driven decision making.
+    </marquee>
+  </p>
   
   <p>
     <a href="https://github.com/someshtarra">
