@@ -132,11 +132,6 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=someshtarra&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=someshtarra&theme=transparent&hide_border=true&title_color=2563EB&text_color=c9d1d9&icon_color=2563EB&ring=2563EB" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <i>Building systems that host, process, and secure data at scale.</i>
