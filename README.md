@@ -101,8 +101,8 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 ### 4. AWS Three-Tier Web Architecture
 - **Problem:** Designing an infrastructure that remains reliable and scales seamlessly under varying workloads while ensuring high security.
 - **Solution:** Designed a highly available, secure AWS three-tier architecture with VPC, EC2 instances across public and private subnets, Application Load Balancer, Auto Scaling Groups, and NAT Gateway routing.
-- **Technologies:** AWS, VPC, EC2, Application Load Balancer, Auto Scaling, NAT Gateway, Security Groups.
-- 🚧 **Work in Progress (Repository coming soon)**
+- **Technologies:** AWS, VPC, EC2, Application Load Balancer, Auto Scaling, NAT Gateway, Security Groups, RDS MySQL, Route 53.
+- [🔗 View Repository](https://github.com/someshtarra/AWS-Three-Tier-Web-Architecture)
 
 ### 5. AWS VPC with Servers in Private Subnets & NAT Gateway
 - **Problem:** Secure network infrastructure requires strict access control and network isolation for application servers.
