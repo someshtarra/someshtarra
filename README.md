@@ -128,6 +128,12 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 - **Technologies:** AWS, VPC, NAT Gateway, Subnets, Route Tables, EC2, Security Groups.
 - [🔗 View Repository](https://github.com/someshtarra/Highly-Available-Secure-and-Auto--Scaling-Web-Application-Architecture-on-AWS)
 
+### 6. Production-Grade AWS 3-Tier Web Architecture (Terraform IaC)
+- **Problem:** Manual cloud provisioning is error-prone, slow, and lacks infrastructure repeatability.
+- **Solution:** Built a fully modular, production-ready Infrastructure as Code (IaC) project using Terraform to automate Multi-AZ VPC networking, ALB, Auto Scaling Groups, Security Groups, and Multi-AZ RDS MySQL with GitHub Actions CI/CD validation.
+- **Technologies:** AWS, Terraform, HCL, VPC, EC2, ALB, Auto Scaling, RDS MySQL, GitHub Actions.
+- [🔗 View Module](file:///Users/someswararaotarra/Desktop/Somesh_git_profile/aws-terraform-3tier-architecture)
+
 ---
 
 ## 🔬 Hands-On Cloud & DevOps Labs
