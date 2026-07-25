@@ -1,0 +1,23 @@
+# Local .terraform directory
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Exclude sensitive tfvars
+*.tfvars
+!*.tfvars.example
+
+# Override default template with configuration for terraform
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Include lock file
+!.terraform.lock.hcl
