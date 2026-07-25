@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Someswararao Tarra, based in Hyderabad, India. I recently completed my **M.Sc. in Data Science (2025) from VIT Vellore (CGPA 8.60)** and hold a **B.Sc. in Mathematics, Physics & Computer Science from Padmavathi Degree College (CGPA 8.50)**.
+Hi! I'm Someswararao Tarra, based in Hyderabad, India. I recently completed my **M.Sc. in Data Science from VIT Vellore (CGPA 8.60)** and hold a **B.Sc. in Mathematics, Physics & Computer Science from Padmavathi Degree College (CGPA 8.50)**.
 
 I have hands-on experience in **Linux Administration, Bash Scripting, Git/GitHub, AWS fundamentals, Python, SQL, Data Analytics, and Machine Learning**. During my internship at **SentinelGuard AI**, I engineered ML models that improved predictive accuracy by 15% and processed 5M+ records using Python and SQL.
 
