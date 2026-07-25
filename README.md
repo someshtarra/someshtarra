@@ -40,17 +40,32 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 
 ## ⚡ Technical Competencies
 
-### ☁️ AWS Cloud
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+### ☁️ AWS Cloud & Infrastructure
+![AWS Architecture Diagram](https://img.shields.io/badge/AWS_Architecture_Diagrams-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![VPC Dashboard](https://img.shields.io/badge/VPC_Dashboard-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Public & Private Subnets](https://img.shields.io/badge/Public_%26_Private_Subnets-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Route Tables](https://img.shields.io/badge/Route_Tables-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Internet Gateway](https://img.shields.io/badge/Internet_Gateway-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![NAT Gateway](https://img.shields.io/badge/NAT_Gateway-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Load Balancing](https://img.shields.io/badge/ELB-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security_Groups-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Network ACLs](https://img.shields.io/badge/Network_ACLs-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![EC2 Instances](https://img.shields.io/badge/EC2_Instances-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AMIs](https://img.shields.io/badge/AMIs-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Launch Template](https://img.shields.io/badge/Launch_Template-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Auto Scaling Group](https://img.shields.io/badge/Auto_Scaling_Group-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Elastic Load Balancer](https://img.shields.io/badge/Load_Balancer-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Target Group Health Checks](https://img.shields.io/badge/Target_Group_Health_Checks-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Route 53 Hosted Zone](https://img.shields.io/badge/Route_53_Hosted_Zone-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![ACM Certificate](https://img.shields.io/badge/ACM_Certificate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CloudFront Distribution](https://img.shields.io/badge/CloudFront_Distribution-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![RDS Instance](https://img.shields.io/badge/RDS_Instance-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![RDS Subnet Group](https://img.shields.io/badge/RDS_Subnet_Group-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![EFS File System](https://img.shields.io/badge/EFS_File_System-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![IAM Users Groups Roles](https://img.shields.io/badge/IAM_Users%2C_Groups_%26_Roles-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CloudWatch Dashboard](https://img.shields.io/badge/CloudWatch_Dashboard-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CloudTrail Event History](https://img.shields.io/badge/CloudTrail_Event_History-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 🛠 DevOps & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -58,11 +73,14 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 
-### 🐧 Linux & Scripting
+### 🐧 Linux Administration & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Shell Automation](https://img.shields.io/badge/Shell_Automation-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![SSH/SCP](https://img.shields.io/badge/SSH%2FSCP-FCC624?style=flat&logo=linux&logoColor=black)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+![systemctl & journalctl](https://img.shields.io/badge/systemctl_%26_journalctl-FCC624?style=flat&logo=linux&logoColor=black)
+![ss & lsof](https://img.shields.io/badge/ss_%26_lsof-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -114,12 +132,12 @@ I'm passionate about automation, cloud technologies, cybersecurity, and data-dri
 
 ## 🔬 Hands-On Cloud & DevOps Labs
 
-- **AWS VPC Architecture**: Designed a VPC with public and private subnets, route tables, IGW, and NAT Gateway for secure outbound routing.
-- **Private EC2 Connectivity**: Configured secure connectivity utilizing Bastion Hosts and AWS Systems Manager Session Manager.
-- **VPC Peering Lab**: Built peering connectivity between two distinct VPCs, handling route tables and CIDR block conflicts.
-- **Load Balancer & Health Checks**: Configured Target Groups and ALB for high availability, utilizing HTTP path-based health checks.
-- **Linux Server Troubleshooting**: Simulated and resolved production outages (SSH failures, CPU/memory spikes, disk full, port conflicts).
-- **Shell Automation**: Created Bash scripts for automating system health checks, log rotation, folder backups, and cron scheduling.
+- **AWS VPC Architecture & Networking**: Designed custom VPCs with Public & Private Subnets, Route Tables, Internet Gateway (IGW), NAT Gateway, Security Groups, and Network ACLs for granular access control.
+- **Compute, AMIs & Scaling**: Provisioned EC2 Instances, configured Custom AMIs, Launch Templates, and Auto Scaling Groups (ASG) integrated with Elastic Load Balancer (ALB) and Target Group Health Checks.
+- **DNS, SSL & Content Delivery**: Configured Route 53 Hosted Zones, SSL/TLS certificates via ACM (AWS Certificate Manager), and CloudFront CDN Distribution for global edge delivery.
+- **Storage & Databases**: Provisioned multi-AZ RDS Instances with RDS Subnet Groups, S3 buckets, and EFS (Elastic File System) for scalable shared storage.
+- **IAM Security & Governance**: Managed IAM Users, Groups, and Roles with least-privilege policies; monitored infrastructure using CloudWatch Dashboards and tracked audit logs with CloudTrail Event History.
+- **AWS CLI & Linux Terminal Operations**: Executed cloud management via AWS CLI; managed server processes using `PM2`, `systemctl`, inspected logs with `journalctl`, and diagnosed network/port sockets using `ss` and `lsof`.
 
 ---
 
